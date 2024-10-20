@@ -1,0 +1,14 @@
+C:\devZanqueta\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.exe
+C:\devZanqueta\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.deps.json
+C:\devZanqueta\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.runtimeconfig.json
+C:\devZanqueta\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.dll
+C:\devZanqueta\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.pdb
+C:\devZanqueta\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\devZanqueta\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\devZanqueta\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfo.cs
+C:\devZanqueta\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\devZanqueta\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.dll
+C:\devZanqueta\ExemploExplorando\obj\Debug\net6.0\refint\ExemploExplorando.dll
+C:\devZanqueta\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
+C:\devZanqueta\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
+C:\devZanqueta\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
