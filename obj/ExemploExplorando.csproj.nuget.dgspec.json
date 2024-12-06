@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\devZanqueta\\ExemploExplorando\\ExemploExplorando.csproj": {}
+    "C:\\Projetos\\ExemploExplorando\\ExemploExplorando.csproj": {}
   },
   "projects": {
-    "C:\\devZanqueta\\ExemploExplorando\\ExemploExplorando.csproj": {
+    "C:\\Projetos\\ExemploExplorando\\ExemploExplorando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\devZanqueta\\ExemploExplorando\\ExemploExplorando.csproj",
+        "projectUniqueName": "C:\\Projetos\\ExemploExplorando\\ExemploExplorando.csproj",
         "projectName": "ExemploExplorando",
-        "projectPath": "C:\\devZanqueta\\ExemploExplorando\\ExemploExplorando.csproj",
-        "packagesPath": "C:\\Users\\caioz\\.nuget\\packages\\",
-        "outputPath": "C:\\devZanqueta\\ExemploExplorando\\obj\\",
+        "projectPath": "C:\\Projetos\\ExemploExplorando\\ExemploExplorando.csproj",
+        "packagesPath": "C:\\Users\\anaba\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\ExemploExplorando\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\caioz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\anaba\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
